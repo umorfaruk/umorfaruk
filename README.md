@@ -83,10 +83,16 @@ Whether it is managing large human rights datasets, building analytical dashboar
 - Built software solutions for NGOs and development organizations
 
 ---
+## 🏆 Certifications & Skills
 
-## Tools & Technologies
-
-Python | Power BI | SQL Server | Tableau | Git | SharePoint | Power Apps | ASP.NET | GIS
+| Area | Skills / Tools | Certifications / Achievements |
+|-----|-----|-----|
+| Data / Analytics | Python, Pandas, NumPy, SQL, ETL, data pipelines, dashboards | Google Data Analytics Professional Certificate |
+| Data Analysis & Visualization | Power BI, Tableau, Excel dashboards, data storytelling | IBM Data Analyst Professional Certificate |
+| Machine Learning / AI | scikit-learn, prompt engineering, LLMs, TensorFlow, PyTorch | — |
+| Data Engineering / Infrastructure | Azure Data Factory, Synapse, dbt, Airflow, Docker, Kubernetes | — |
+| Information Management | Database design, data governance, reporting systems, data validation | — |
+| Soft Skills | Team leadership, project management, stakeholder engagement | — |
 
 ---
 
