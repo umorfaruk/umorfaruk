@@ -99,4 +99,4 @@ Outside my professional responsibilities, I enjoy **mentoring young professional
 ## Contact
 
 LinkedIn: *www.linkedin.com/in/faruk-ahmad-bd*  
-Email: *umorfaruk7@gmail.com*/*md.ahmad@un.org*
+Email: Private:*umorfaruk7@gmail.com* Official:*md.ahmad@un.org*
